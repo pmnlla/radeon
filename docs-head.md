@@ -5,7 +5,7 @@ First up, pick a random model of linear bearings off of the adsk parts library. 
 
 You'll already encounter an issue here - with 35mm spacing between the rods, you lack the room to fit a full sized heatbreak fan like a Bambu printer uses. 
 
-![](assets/img/rodSpacingIssue.png)
+![](https://hackclub.slack.com/archives/C016DEDUL87/p1738458654890959?thread_ts=1738458650.277949&cid=C016DEDUL87)
 
 There are a few solutions to this:
 - Increace the rod spacing, i.e. what a sane person would do
